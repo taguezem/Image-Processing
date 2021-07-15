@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1625848194 source:f:\projet school\c\img_pros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1625840362 source:f:\projet school\c\img_pros\processing.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+
+1625841130 source:f:\projet school\c\img_pros\opperations.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+
+1625848196 source:c:\users\kjq\3d objects\img_pros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1626345494 source:c:\users\taguezem boris\3d objects\img_pros1\opperations.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1626342983 source:c:\users\taguezem boris\3d objects\img_pros1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1626345043 source:c:\users\taguezem boris\3d objects\img_pros1\processing.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+
